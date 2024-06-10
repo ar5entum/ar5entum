@@ -1,1 +1,1 @@
-I should try open sourcing a bit more
+Research engineer, not shy to look at code.
